@@ -1,0 +1,1 @@
+Opensea's Api: https://docs.opensea.io/reference/retrieving-a-single-collection-testnets
