@@ -1,0 +1,139 @@
+{
+  "node": {
+    "collection": {
+      "name": "The Sandbox",
+      "imageUrl": "https://lh3.googleusercontent.com/SXH8tW1siikB80rwCRnjm1a5xM_MwTg9Xl9Db6mioIk9HIlDM09pVoSR7GKJgS6ulSUpgW9BDtMk_ePX_NKgO9A=s60",
+      "isVerified": true,
+      "slug": "sandbox",
+      "isCategory": false,
+      "id": "Q29sbGVjdGlvblR5cGU6NTYwNA=="
+    },
+    "traitCriteria": null,
+    "assetQuantity": {
+      "asset": {
+        "decimals": null,
+        "id": "QXNzZXRUeXBlOjUxMjIyNDAwNw=="
+      },
+      "quantity": "1",      // quantity
+      "id": "QXNzZXRRdWFudGl0eVR5cGU6MjAzNTc2OTcwMjAxNjU5MjU1NDgxMTA2MTI2MjY0MzQ0NjQ2MzYz"
+    },
+    "item": {
+      "__typename": "AssetType",
+      "relayId": "QXNzZXRUeXBlOjUxMjIyNDAwNw==",
+      "verificationStatus": "VERIFIED",
+      "collection": {
+        "name": "The Sandbox",
+        "verificationStatus": "VERIFIED",
+        "slug": "sandbox",
+        "isCategory": false,
+        "id": "Q29sbGVjdGlvblR5cGU6NTYwNA==",
+        "displayData": {
+          "cardDisplayStyle": "CONTAIN"
+        }
+      },
+      "__isItemType": "AssetType",
+      "name": "LAND (-6, 150)",       // name and x,y coordinates
+      "assetContract": {
+        "address": "0x9d305a42a3975ee4c1c57555bed5919889dce63f",      // address of this item
+        "id": "QXNzZXRDb250cmFjdFR5cGU6ODg4MzU0",
+        "blockExplorerLink": "https://polygonscan.com/address/0x9d305a42a3975ee4c1c57555bed5919889dce63f"
+      },
+      "tokenId": "144630",      // not sure what this is
+      "chain": {
+        "identifier": "MATIC"
+      },
+      "animationUrl": null,
+      "displayImageUrl": "https://lh3.googleusercontent.com/Iocx3wNFUwLnQNtrymVb7U4oCrjND8pKZN93AAcZrZKz-8BhHmN73ewqdYaMDjuZ3W9XXpIatUiCKVYqCdxal3wOqcnYZW7EwPlu",
+      "imageUrl": "https://lh3.googleusercontent.com/Iocx3wNFUwLnQNtrymVb7U4oCrjND8pKZN93AAcZrZKz-8BhHmN73ewqdYaMDjuZ3W9XXpIatUiCKVYqCdxal3wOqcnYZW7EwPlu",
+      "isDelisted": false,
+      "backgroundColor": null,
+      "decimals": null,
+      "__isNode": "AssetType",
+      "id": "QXNzZXRUeXBlOjUxMjIyNDAwNw=="
+    },
+    "relayId": "QXNzZXRFdmVudFR5cGU6NzMyNjM4NTM4MA==",
+    "eventTimestamp": "2022-08-10T01:35:05",
+    "eventType": "SUCCESSFUL",
+    "orderExpired": false,
+    "customEventName": null,
+    "isMint": false,
+    "isAirdrop": false,
+    "devFee": {
+      "asset": {
+        "assetContract": {
+          "chain": "MATIC",
+          "id": "QXNzZXRDb250cmFjdFR5cGU6MTk3MTk2",
+          "blockExplorerLink": "https://polygonscan.com/address/0x7ceb23fd6bc0add59e62ac25578270cff1b9f619"
+        },
+        "id": "QXNzZXRUeXBlOjE3OTgwNjkx",
+        "decimals": 18,
+        "imageUrl": "https://openseauserdata.com/files/265128aa51521c90f7905e5a43dcb456_new.svg",
+        "symbol": "ETH",
+        "usdSpotPrice": 1677.93
+      },
+      "quantity": "8e+16",
+      "id": "QXNzZXRRdWFudGl0eVR5cGU6OTgyNTY0NjkzMDY1MDE3NzM0MjE5MDgzNzk5ODM4MzEzMTYyMjA="
+    },
+    "devFeePaymentEvent": {
+      "eventTimestamp": "2022-08-10T01:35:05",
+      "transaction": {
+        "blockExplorerLink": "https://polygonscan.com/tx/0xa81ec141029a42174b6a105a6ca23ccad57b25bf09f6b0fb432e25b6576e8000",
+        "id": "VHJhbnNhY3Rpb25UeXBlOjQ1OTI2NjA3NA=="
+      },
+      "id": "QXNzZXRFdmVudFR5cGU6NzMyNjM4NTM4MA=="
+    },
+    "fromAccount": null,
+    "priceType": {
+      "eth": "1.6"      // price in eth
+    },
+    "price": {
+      "quantity": "1600000000000000000",
+      "asset": {
+        "decimals": 18,
+        "imageUrl": "https://openseauserdata.com/files/265128aa51521c90f7905e5a43dcb456_new.svg",
+        "symbol": "ETH",
+        "usdSpotPrice": 1677.93,    // spot price in USD
+        "assetContract": {
+          "blockExplorerLink": "https://polygonscan.com/address/0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+          "chain": "MATIC",
+          "id": "QXNzZXRDb250cmFjdFR5cGU6MTk3MTk2"
+        },
+        "id": "QXNzZXRUeXBlOjE3OTgwNjkx"
+      },
+      "id": "QXNzZXRRdWFudGl0eVR5cGU6MjA4ODU5NTQzMTkwNDczNDE5MDc3NDEzMDIwMzY3NTgyMTkyODEz"
+    },
+    "endingPrice": null,
+    "seller": {             // seller info
+      "address": "0xd89f88ab81820ab109689fabf47d68c35b7888d2",
+      "config": null,
+      "isCompromised": false,
+      "user": {
+        "publicUsername": "tosc",
+        "id": "VXNlclR5cGU6MTA3MjU3"
+      },
+      "displayName": "tosc",
+      "imageUrl": "https://openseauserdata.com/files/37f8e1401dd18e1b7ae380ea96128c9a.png",
+      "id": "QWNjb3VudFR5cGU6Mjc1MDQwOTg="
+    },
+    "toAccount": null,
+    "winnerAccount": {      // buyer info
+      "address": "0x27fec92ed677ed1a761fb70fdb387335c7d1bc15",
+      "config": null,
+      "isCompromised": false,
+      "user": {
+        "publicUsername": null,
+        "id": "VXNlclR5cGU6MzYyNjQ3NDE="
+      },
+      "displayName": null,
+      "imageUrl": "https://storage.googleapis.com/opensea-static/opensea-profile/18.png",
+      "id": "QWNjb3VudFR5cGU6NDYxNzI0Mzk2"
+    },
+    "transaction": {
+      "blockExplorerLink": "https://polygonscan.com/tx/0xa81ec141029a42174b6a105a6ca23ccad57b25bf09f6b0fb432e25b6576e8000",  // transaction details page; more detailed information regarding the transaction
+      "id": "VHJhbnNhY3Rpb25UeXBlOjQ1OTI2NjA3NA=="
+    },
+    "id": "QXNzZXRFdmVudFR5cGU6NzMyNjM4NTM4MA==",
+    "__typename": "AssetEventType"
+  },
+  "cursor": "YXJyYXljb25uZWN0aW9uOjA="
+}
